@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Converter</string>
+    <string name="kirillkarpushingr303">KirillKarpushinGr303</string>
+    <string name="button">Button</string>
+    <string name="from">From:</string>
+    <string name="to">To</string>
+    <string name="name">Name</string>
+    <string name="name1">Name</string>
+    <string name="Mass">Меры массы</string>
+    <string name="Lenght">Меры длины</string>
+    <string name="TIme">Меры времени</string>
+</resources>
